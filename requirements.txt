@@ -1,0 +1,5 @@
+dotenv
+opencv-python
+opencv-contrib-python
+pandas
+yt-dlp
