@@ -2,14 +2,14 @@ import cv2
 print(cv2.__version__)
 
 rastreador = cv2.TrackerCSRT_create()
-#rastreador = cv2.TrackerMOSSE_create()
+# rastreador = cv2.TrackerMOSSE_create()
 videos = [
     'rua.mp4', 
     '4K Road traffic video for object detection and tracking - free download now!.mp4',
     'largada da corrida infantil Pré Mirim no dia 7 de maio no parque Iguaçu.mp4'
 ]
-#videoset_path = './videos/'
-videoset_path = 'D:/_sets_/videosets/'
+videoset_path = './videos/'
+# videoset_path = 'D:/_sets_/videosets/'
 
 n_video = 0
 video = cv2.VideoCapture(videoset_path + videos[n_video])
