@@ -16,8 +16,6 @@ O projeto utiliza inteligência visual para isolar características geométricas
 
 ## 📺 Demonstração Visual
 
-*(Grave um pequeno GIF ou adicione um print da tela com o retângulo verde acompanhando um objeto e substitua o caminho abaixo)*
-
 ![Demonstração do Rastreamento](docs/demonstracao_rastreamento.gif)
 
 ---
