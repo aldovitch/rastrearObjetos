@@ -19,8 +19,6 @@ pip-delete-this-directory.txt
 # Virtual environments
 .venv/
 venv/
-Env/
-env/
 
 # Pytest
 .pytest_cache/
@@ -40,15 +38,7 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
-# Local env files
-.env
-
 # Videos folder
-videos/
-.env
-.venv/
-.idea/
-.vscode/
 videos/
 
 # Temp Files
