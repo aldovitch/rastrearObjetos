@@ -50,3 +50,6 @@ videos/
 .idea/
 .vscode/
 videos/
+
+# Temp Files
+/tmp/
