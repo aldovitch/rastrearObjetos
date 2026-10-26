@@ -8,8 +8,8 @@ urls = [
     #'https://www.youtube.com/shorts/zkmE82Tpl7c',
     'https://www.youtube.com/shorts/MeHau8mn8LE' #tokio
 ]
-#videoset_path = './videos/'
-videoset_path = 'D:/_sets_/videosets/'
+videoset_path = './videos/'
+#videoset_path = 'D:/_sets_/videosets/'
 
 for url in urls:
     ydl_opts = {
